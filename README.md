@@ -46,7 +46,6 @@ TechCompanion-UI-Walkthrough.pptx
 
 TechCompanion-PlayStore-Guide.docx
 
-TechCompanion-Android-Build-Guide.docx (if uploaded)
 
 These cover:
 
