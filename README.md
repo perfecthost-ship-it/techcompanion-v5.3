@@ -98,41 +98,40 @@ See:
 
 📸 Screenshots
 Home Screen
-![Home](screenshots/search home 1.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Barcode Scanner
-![Barcode Scanner](screenshots/EAN barcode 2.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Loading Skeleton
-![Loading Skeleton](screenshots/Loading skeleton 3.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Results Screen
-![Results](screenshots/results screen 4.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Unverified Result
-![Unverified](screenshots/Unverified result 5.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Walkthrough
-![Walkthrough](screenshots/Walkthrough 6.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Guide Complete
-![Guide Complete](screenshots/Guide complete 7.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Camera Scanner
-![Camera Scanner](screenshots/Camera scanner 8.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Library Full
-![Library Full](screenshots/Libary full 9.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Library Search
-![Library Search](screenshots/libary search 10.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Profile & Stats
-![Profile & Stats](screenshots/profile and stats 11.png)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Light Theme
-![Light Theme](screenshots/light theme 12.png)
-
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 🧪 Testing
 Physical device testing
 
