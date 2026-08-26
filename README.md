@@ -96,42 +96,7 @@ iOS
 See:
 📄 /docs/TechCompanion-Final-Report.docx (iOS section)
 
-📸 Screenshots
-Home Screen
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
-Barcode Scanner
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Loading Skeleton
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Results Screen
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Unverified Result
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Walkthrough
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Guide Complete
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Camera Scanner
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Library Full
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Library Search
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Profile & Stats
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Light Theme
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 🧪 Testing
 Physical device testing
 
