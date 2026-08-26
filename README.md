@@ -3,15 +3,22 @@
 TechCompanion is a cross‑platform mobile app designed to simplify device setup, barcode scanning, and AI‑generated guides.
 Built with React + Capacitor, it supports Android and iOS, offering fast scanning, personalised setup instructions, and saved guides.
 
-This repository contains:
+🎯 Why This Project Exists
+TechCompanion was built to solve a real engineering workflow problem:
+technicians often need fast device identification, setup instructions, and repeatable guides.
+This app demonstrates:
 
-Full application source code
+Full‑stack mobile development
 
-Android/iOS build configuration
+Cloud API integration
 
-Documentation (reports, guides, presentations)
+ML‑powered barcode scanning
 
-Screenshots and UI walkthroughs
+AI‑generated documentation
+
+Production‑ready engineering workflows
+
+It’s both a real tool and a portfolio showcase of engineering + software capability.
 
 📂 Repository Structure
 Code
@@ -26,7 +33,7 @@ techcompanion-v5.3/
 ├── LICENSE                 # MIT License
 └── README.md               # Project overview (this file)
 📄 Documentation
-All project documentation is stored in the /docs folder:
+All project documentation is stored in the /docs folder.
 
 Core Documents
 TechCompanion-Final-Report.docx
@@ -41,7 +48,7 @@ TechCompanion-PlayStore-Guide.docx
 
 TechCompanion-Android-Build-Guide.docx (if uploaded)
 
-These files cover:
+These cover:
 
 Full project analysis
 
@@ -87,6 +94,33 @@ Cloudflare Workers
 
 GitHub Actions CI/CD
 
+🧩 Architecture & Tech Decisions
+This section shows your engineering reasoning — a big plus for recruiters.
+
+React + Capacitor  
+Chosen for cross‑platform speed and native plugin support without maintaining two codebases.
+
+ML Kit Barcode Scanning  
+Provides fast, reliable scanning with native performance.
+
+Cloudflare Worker API Proxy  
+Used to secure API keys and provide a lightweight serverless backend.
+
+RevenueCat  
+Simplifies subscription management across Android and iOS.
+
+GitHub Actions CI/CD  
+Automates builds and ensures consistent deployment pipelines.
+
+🖼 Screenshots
+(Add your images into /screenshots and reference them here)
+
+Code
+![Home Screen](screenshots/home.png)
+![Barcode Scanner](screenshots/scanner.png)
+![Device Details](screenshots/device-details.png)
+![AI Guide](screenshots/ai-guide.png)
+![Saved Guides](screenshots/saved-guides.png)
 📦 Building the App
 Android
 See:
@@ -95,7 +129,6 @@ See:
 iOS
 See:
 📄 /docs/TechCompanion-Final-Report.docx (iOS section)
-
 
 🧪 Testing
 Physical device testing
@@ -110,6 +143,4 @@ Automated CI builds via GitHub Actions
 This project is licensed under the MIT License.
 
 👤 Author
-Lee  
-Leicester, UK
-Embedded & Software Engineering
+Lee
