@@ -1,4 +1,9 @@
 📘 TechCompanion v5.3 — README
+
+
+🔗 Live demo: https://perfecthost-ship-it.github.io/techcompanion-v5.3/
+
+
 🚀 Overview
 TechCompanion is a cross‑platform mobile app designed to simplify device setup, barcode scanning, and AI‑generated guides.
 Built with React + Capacitor, it supports Android and iOS, offering fast scanning, personalised setup instructions, and saved guides.
