@@ -96,6 +96,43 @@ iOS
 See:
 📄 /docs/TechCompanion-Final-Report.docx (iOS section)
 
+📸 Screenshots
+Home Screen
+![Home](screenshots/search home 1.png)
+
+Barcode Scanner
+![Barcode Scanner](screenshots/EAN barcode 2.png)
+
+Loading Skeleton
+![Loading Skeleton](screenshots/Loading skeleton 3.png)
+
+Results Screen
+![Results](screenshots/results screen 4.png)
+
+Unverified Result
+![Unverified](screenshots/Unverified result 5.png)
+
+Walkthrough
+![Walkthrough](screenshots/Walkthrough 6.png)
+
+Guide Complete
+![Guide Complete](screenshots/Guide complete 7.png)
+
+Camera Scanner
+![Camera Scanner](screenshots/Camera scanner 8.png)
+
+Library Full
+![Library Full](screenshots/Libary full 9.png)
+
+Library Search
+![Library Search](screenshots/libary search 10.png)
+
+Profile & Stats
+![Profile & Stats](screenshots/profile and stats 11.png)
+
+Light Theme
+![Light Theme](screenshots/light theme 12.png)
+
 🧪 Testing
 Physical device testing
 
