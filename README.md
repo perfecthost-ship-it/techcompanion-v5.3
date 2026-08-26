@@ -143,4 +143,6 @@ Automated CI builds via GitHub Actions
 This project is licensed under the MIT License.
 
 👤 Author
-Lee
+Lee  
+Leicester, UK
+Embedded & Software Engineering
